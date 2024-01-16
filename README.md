@@ -18,6 +18,7 @@ Hello, I'm an aerospace engineer venturing into software. Proficient in Python, 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=Django&logoColor=white)
 ![mui](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Jinja](https://img.shields.io/badge/Jinja-%23B41717?style=for-the-badge&logo=jinja&logoColor=white)
 ![node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
