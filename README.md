@@ -1,4 +1,4 @@
-## About Me:
+## About Me
 Hello, I'm an aerospace engineer venturing into software. Proficient in Python, JavaScript, React, and Flask, I recently completed Coding Temple's bootcamp. Eager to merge aerospace insights with tech, I'm passionate about innovation and continuous learning. Let's connect and explore possibilities at the intersection of aerospace and software!
 
 ### Programming/Markup Langauges:
