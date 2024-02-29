@@ -43,4 +43,4 @@ Hello, I'm an aerospace engineer venturing into software. Proficient in Python, 
 - arjanvelovic@gmail.com<br/>
 - [My Portfolio Website](https://velovicportfolio.netlify.app)<br/>
 - [My LinkedIn](https://www.linkedin.com/in/arjan-velovic/)<br/>
-- [Download my Resume](https://velovicportfolio.netlify.app/files/VelovicResume.pdf)   	
+- [Download my Resume](https://velovic.netlify.app/files/Velovic_Resume.pdf)
