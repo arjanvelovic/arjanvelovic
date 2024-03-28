@@ -1,5 +1,5 @@
 ## About Me
-Hello, I'm an aerospace engineer venturing into software. Proficient in Python, JavaScript, React, and Flask, I recently completed Coding Temple's bootcamp. Eager to merge aerospace insights with tech, I'm passionate about innovation and continuous learning. Let's connect and explore possibilities at the intersection of aerospace and software!
+Hello, I'm an ambitious software engineer with five years of aerospace experience, driven by a passion for growth and learning. I have expertise in full-stack development, specializing in Python, JavaScript, React, Flask and SQL for robust and scalable web applications. Eager to apply engineering expertise and coding skills to contribute effectively to the software development arena.
 
 ### Programming/Markup Langauges:
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
